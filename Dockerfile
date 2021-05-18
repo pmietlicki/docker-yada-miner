@@ -5,7 +5,6 @@ ENV POOL_URL    		pool.yadacoin.io:3333
 ENV POOL_USER   		1A8jemALrCuD6GnfHGaWfxt52uvvXdQH6a
 ENV POOL_PW     		rancher
 ENV COIN                yada
-ENV OPTIONS             -k
 ENV MAX_CPU   			100
 ENV USE_SCHEDULER		false
 ENV START_TIME			2100
